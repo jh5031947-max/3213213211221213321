@@ -1,0 +1,6 @@
+{
+  "name": "PitchGear - 원스톱 축구 유니폼 커스텀 마켓",
+  "description": "상세페이지 이동 없이 카드에서 실시간으로 이름·등번호 마킹과 패치를 미리 보고 주문할 수 있는 인터랙티브 축구 유니폼 스토어 및 팀 단체견적 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
